@@ -1,2 +1,10 @@
 Package: drutils
 Version: 0.1.1
+Date: 2020-12-02
+Title: Daniel's Utility Functions
+Author: Daniel Russ <danruss00@gmail.com>
+Maintainer: Daniel Russ <danruss00@gmail.com>
+Description: A few functions that I find useful.
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+License: CC0
